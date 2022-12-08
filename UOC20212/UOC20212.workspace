@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOC20212" Database="" Version="10000">
+  <Project Name="UOC20212" Path="UOC20212.project" Active="Yes"/>
+  <Project Name="UOCVaccine" Path="UOCVaccine/UOCVaccine.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UOC20212" ConfigName="Debug"/>
+      <Project Name="UOCVaccine" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UOC20212" ConfigName="Release"/>
+      <Project Name="UOCVaccine" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
